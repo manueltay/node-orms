@@ -14,7 +14,7 @@ port: 5420
 To initialize the project sequelizer type
  ```
  cd sequelizer-node-test
- npm init
+ npm install
  npm run dev:start
  ```
  
@@ -23,7 +23,7 @@ To initialize the project sequelizer type
 To initialize the project sequelizer type
  ```
  cd bookshelf-node-test
- npm init
+ npm install
  npm run dev:start
  ```
  
@@ -32,7 +32,7 @@ To initialize the project sequelizer type
 To initialize the project sequelizer type
  ```
  cd knex-node-test
- npm init
+ npm install
  npm run dev:start
  ```
  
