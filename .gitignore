@@ -1,0 +1,18 @@
+# Ignore OS generated files
+ehthumbs.db
+Thumbs.db
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Directories
+debug/
+dist/
+
+

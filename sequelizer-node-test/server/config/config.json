@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "solar",
+    "password": "solarpass",
+    "database": "streambeta",
+    "host": "127.0.0.1",
+    "port": 5420,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "solar",
+    "password": "solarpass",
+    "database": "streambeta",
+    "host": "127.0.0.1",
+    "port": 5420,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "solar",
+    "password": "solarpass",
+    "database": "streambeta",
+    "host": "127.0.0.1",
+    "port": 5420,
+    "dialect": "postgres"
+  }
+}

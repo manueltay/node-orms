@@ -1,0 +1,10 @@
+{
+  "client": "pg",
+  "connection": {
+    "host": "localhost",
+    "user": "solar",
+    "password": "solarpass",
+    "database": "streambeta",
+    "charset": "utf8"
+  }
+}
